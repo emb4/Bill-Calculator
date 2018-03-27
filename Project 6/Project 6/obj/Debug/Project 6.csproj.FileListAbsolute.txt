@@ -1,0 +1,6 @@
+c:\users\micro\documents\visual studio 2015\Projects\Project 6\Project 6\bin\Debug\Project 6.exe.config
+C:\Users\micro\Documents\Visual Studio 2015\Projects\Project 6\Project 6\bin\Debug\Project 6.exe
+C:\Users\micro\Documents\Visual Studio 2015\Projects\Project 6\Project 6\bin\Debug\Project 6.pdb
+C:\Users\micro\Documents\Visual Studio 2015\Projects\Project 6\Project 6\obj\Debug\Project 6.csprojResolveAssemblyReference.cache
+C:\Users\micro\Documents\Visual Studio 2015\Projects\Project 6\Project 6\obj\Debug\Project 6.exe
+C:\Users\micro\Documents\Visual Studio 2015\Projects\Project 6\Project 6\obj\Debug\Project 6.pdb

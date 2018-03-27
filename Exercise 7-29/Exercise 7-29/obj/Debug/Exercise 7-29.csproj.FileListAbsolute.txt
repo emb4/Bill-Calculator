@@ -1,0 +1,6 @@
+c:\users\micro\documents\visual studio 2015\Projects\Exercise 7-29\Exercise 7-29\bin\Debug\Exercise 7-29.exe.config
+c:\users\micro\documents\visual studio 2015\Projects\Exercise 7-29\Exercise 7-29\bin\Debug\Exercise 7-29.exe
+c:\users\micro\documents\visual studio 2015\Projects\Exercise 7-29\Exercise 7-29\bin\Debug\Exercise 7-29.pdb
+c:\users\micro\documents\visual studio 2015\Projects\Exercise 7-29\Exercise 7-29\obj\Debug\Exercise 7-29.csprojResolveAssemblyReference.cache
+c:\users\micro\documents\visual studio 2015\Projects\Exercise 7-29\Exercise 7-29\obj\Debug\Exercise 7-29.exe
+c:\users\micro\documents\visual studio 2015\Projects\Exercise 7-29\Exercise 7-29\obj\Debug\Exercise 7-29.pdb
